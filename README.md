@@ -5,7 +5,7 @@ Require global variables
 ## Example
 
 ```js
-import { global } from "global";
+import { global } from "@storybook/global";
 ```
 
 ## Installation
